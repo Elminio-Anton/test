@@ -1,3 +1,4 @@
+
 let money = +prompt("Ваш бюджет на месяц?",'1000');
 let time = new Date(prompt("Введите вдату в формате YYYY-MM-DD",'2020-05-25'));
 let appData = {
